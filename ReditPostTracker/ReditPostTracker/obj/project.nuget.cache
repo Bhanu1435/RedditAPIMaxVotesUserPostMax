@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "2gNne8mrAJ1Xsj8PBFpzPLvcEiEKsS2UqsP1hWupF0Vf6264GKpsZmlDSoZwF9LuSugd0Jx7J8GNGw0V9YsenA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\bhara\\source\\repos\\ReditPostTracker\\ReditPostTracker\\ReditPostTracker.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\bhara\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
+    "C:\\Users\\bhara\\.nuget\\packages\\newtonsoft.json\\12.0.1\\newtonsoft.json.12.0.1.nupkg.sha512",
+    "C:\\Users\\bhara\\.nuget\\packages\\reddit\\1.5.2\\reddit.1.5.2.nupkg.sha512",
+    "C:\\Users\\bhara\\.nuget\\packages\\reddit.authtokenretrieverlib\\1.5.2\\reddit.authtokenretrieverlib.1.5.2.nupkg.sha512",
+    "C:\\Users\\bhara\\.nuget\\packages\\restsharp\\106.6.9\\restsharp.106.6.9.nupkg.sha512",
+    "C:\\Users\\bhara\\.nuget\\packages\\uhttpsharp.standard\\8.0.30703.1\\uhttpsharp.standard.8.0.30703.1.nupkg.sha512"
+  ],
+  "logs": []
+}
